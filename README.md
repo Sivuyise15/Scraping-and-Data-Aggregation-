@@ -10,7 +10,7 @@ This project contains a Python Jupyter Notebook that extracts structured data fr
 - Strips HTML tags using regular expressions to convert the content to plain text.
 - return  csv file with all the crapped data, in this case customer views information.
 
-  ## To Test it
-  - you can use ithis site: https://sivuyise15.github.io/my-website/
-  - But you can find one other website that stores reviews in that website.
-  - It is an ongoing project which later on I will advance it.
+## To Test it
+- you can use ithis site: https://sivuyise15.github.io/my-website/
+- But you can find one other website that stores reviews in that website.
+- It is an ongoing project which later on I will advance it.
